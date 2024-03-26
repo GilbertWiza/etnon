@@ -1,0 +1,19 @@
+{
+  "name": "@codecademy/prettier-config",
+  "version": "0.1.7",
+  "description": "Shared Prettier config for Codecademy",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Codecademy/client-modules/packages/prettier-config"
+  },
+  "author": "codecademy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Codecademy/client-modules/packages/prettier-config"
+  },
+  "homepage": "https://github.com/Codecademy/client-modules/client-modules/packages/prettier-config",
+  "peerDependencies": {
+    "prettier": "^2.0.0"
+  }
+}

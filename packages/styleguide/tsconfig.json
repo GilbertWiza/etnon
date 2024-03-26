@@ -1,0 +1,12 @@
+{
+  "extends": "../../tsconfig.json",
+  "compilerOptions": {
+    "baseUrl": "../",
+    "allowJs": true,
+    "noEmit": true,
+    "isolatedModules": true,
+    "declaration": false
+  },
+  "include": ["../../typings/*.d.ts", "./**/*", "../**/src/**/*"],
+  "exclude": []
+}

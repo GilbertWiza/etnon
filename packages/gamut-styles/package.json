@@ -1,0 +1,16 @@
+{
+  "name": "@codecademy/gamut-styles",
+  "description": "Styleguide & Component library for codecademy.com",
+  "version": "4.1.0",
+  "author": "Jake Hiller <jake@codecademy.com>",
+  "main": "utils.scss",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "yarn build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:RyzacInc/client-modules.git"
+  },
+  "license": "MIT"
+}
